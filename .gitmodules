@@ -1,0 +1,13 @@
+[submodule "/src/rosbridge_suite"]
+        path = src/rosbridge_suite
+        url = https://github.com/RobotWebTools/rosbridge_suite
+[submodule "/src/tf2_web_republisher"]
+        path = src/tf2_web_republisher
+        url = https://github.com/RobotWebTools/tf2_web_republisher
+[submodule "/src/rosauth"]
+        path = src/rosauth
+        url = https://github.com/GT-RAIL/rosauth
+[submodule "/src/visualization_tutorials"]
+        path = src/visualization_tutorials
+        url = https://github.com/ros-visualization/visualization_tutorials
+
